@@ -3,7 +3,11 @@ Hi Friends of the hacking-tool script includes 9 tools in the data collection ca
 
 
 Tutorial to run the script in window and linux
+
 git clone https://github.com/CYBERSECURITYXX/Hacking_tool/
+
 cd Hacking_tool
+
 python Hacking-tool.py
+
 
